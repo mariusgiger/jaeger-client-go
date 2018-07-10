@@ -1,5 +1,5 @@
 hash: 50ac12b99e08a299245f26fa232f1d7b8f3c64c13406fdaec0a79bc98e6ba948
-updated: 2018-07-10T10:54:58.898912243+02:00
+updated: 2018-07-10T11:51:52.483025073+02:00
 imports:
 - name: github.com/beorn7/perks
   version: 3a771d992973f24aa725d07868b467d1ddfceafb
@@ -17,7 +17,7 @@ imports:
   subpackages:
   - spew
 - name: github.com/golang/protobuf
-  version: bbd03ef6da3a115852eaf24c8a1c46aeb39aa175
+  version: 1325a051a2753cd67556b182843b1b693d0854cd
   subpackages:
   - proto
 - name: github.com/matttproud/golang_protobuf_extensions
@@ -44,25 +44,25 @@ imports:
   subpackages:
   - go
 - name: github.com/prometheus/common
-  version: 38c53a9f4bfcd932d1b00bfc65e256a7fba6b37a
+  version: 7600349dcfe1abd18d72d3a1770870d9800a7801
   subpackages:
   - expfmt
   - internal/bitbucket.org/ww/goautoneg
   - model
 - name: github.com/prometheus/procfs
-  version: 780932d4fbbe0e69b84c34c20f5c8d0981e109ea
+  version: ae68e2d4c00fed4943b5f6698d504a5fe083da8a
   subpackages:
   - internal/util
   - nfs
   - xfs
 - name: github.com/stretchr/testify
-  version: 12b6f73e6084dad08a7c6e575284b177ecafbc71
+  version: f35b8ab0b5a2cef36673838d662e249dd9c94686
   subpackages:
   - assert
   - require
   - suite
 - name: github.com/uber/jaeger-lib
-  version: 9001430452ee65fe1078ec4b0cb6c8fba274fac4
+  version: 33a8b83c4bb27ee5f00b59dc86084fe4afd9a8a1
   repo: https://github.com/mariusgiger/jaeger-lib.git
   subpackages:
   - metrics
@@ -81,10 +81,10 @@ imports:
   - internal/exit
   - zapcore
 - name: golang.org/x/net
-  version: 6078986fec03a1dcc236c34816c71b0e05018fda
+  version: 292b43bbf7cb8d35ddf40f8d5100ef3837cced3f
   subpackages:
   - context
   - context/ctxhttp
 testImports:
 - name: github.com/uber-go/atomic
-  version: 8474b86a5a6f79c443ce4b2992817ff32cf208b8
+  version: 1ea20fb1cbb1cc08cbd0d913a96dead89aa18289
